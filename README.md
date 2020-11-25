@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
   <a href="https://discord.com/users/431140096821952513" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/alestero" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.reddit.com/user/xalesterox" target"blank_"><img src="https://img.shields.io/badge/reddit%20-ff3b00.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCwzoFp7bojCP0E_RPnFoWgg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/xalesterox" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
